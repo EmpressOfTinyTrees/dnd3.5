@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\arthu\\source\\repos\\DnDThreePointFiveApp\\obj\\Release\\net9.0-windows10.0.19041.0\\win10-x64\\scopedcss\\bundle\\DnDThreePointFiveApp.styles.css",
+      "PackagePath": "staticwebassets\\DnDThreePointFiveApp.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\arthu\\source\\repos\\DnDThreePointFiveApp\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\arthu\\source\\repos\\DnDThreePointFiveApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.DnDThreePointFiveApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.DnDThreePointFiveApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.build.DnDThreePointFiveApp.props",
+      "PackagePath": "build\\DnDThreePointFiveApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildMultiTargeting.DnDThreePointFiveApp.props",
+      "PackagePath": "buildMultiTargeting\\DnDThreePointFiveApp.props"
+    },
+    {
+      "Id": "obj\\Release\\net9.0-windows10.0.19041.0\\win10-x64\\staticwebassets\\msbuild.buildTransitive.DnDThreePointFiveApp.props",
+      "PackagePath": "buildTransitive\\DnDThreePointFiveApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

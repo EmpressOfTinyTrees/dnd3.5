@@ -1,0 +1,4 @@
+C:\Users\arthu\source\repos\DnDThreePointFiveApp\wwwroot\index.html
+C:\Users\arthu\source\repos\DnDThreePointFiveApp\wwwroot\css\app.css
+wwwroot\css\app.css
+wwwroot\index.html
