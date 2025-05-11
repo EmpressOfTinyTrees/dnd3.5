@@ -1,0 +1,15 @@
+C:\Users\arthu\source\repos\DnDThreePointFive\bin\Debug\net9.0\DnDThreePointFive.exe
+C:\Users\arthu\source\repos\DnDThreePointFive\bin\Debug\net9.0\DnDThreePointFive.deps.json
+C:\Users\arthu\source\repos\DnDThreePointFive\bin\Debug\net9.0\DnDThreePointFive.runtimeconfig.json
+C:\Users\arthu\source\repos\DnDThreePointFive\bin\Debug\net9.0\DnDThreePointFive.dll
+C:\Users\arthu\source\repos\DnDThreePointFive\bin\Debug\net9.0\DnDThreePointFive.pdb
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.AssemblyInfoInputs.cache
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.AssemblyInfo.cs
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.csproj.CoreCompileInputs.cache
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.sourcelink.json
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.dll
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\refint\DnDThreePointFive.dll
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.pdb
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\DnDThreePointFive.genruntimeconfig.cache
+C:\Users\arthu\source\repos\DnDThreePointFive\obj\Debug\net9.0\ref\DnDThreePointFive.dll
